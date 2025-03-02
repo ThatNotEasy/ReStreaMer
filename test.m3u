@@ -3,4 +3,4 @@
 #EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDA4Njg5NjYsImlzcyI6IlZSIiwiZXhwIjoxNzQwOTU0NjAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNTdhMzA5YTYtMWMwMi00ZjZjLWFjMzgtNmM0MDQyOGQ3ZTM5IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikifQ.XbQnmHWWHJ4POVHnD-kY-QQps7N0jvPBDtMDFqiYEUw"}
 #KODIPROP:inputstream.adaptive.license_key={"bf6709b32f754b8db7a6677b804bdd47":"81d313395b2b90d5c3318d7ce474d273","33d64e90ab4a49ad82fa8e330ec8dd77":"0e97b14e170db8ab089ec77d4119d1da"}
 #EXTINF:-1 tvg-id="502.astro" ch-number="502" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png" group-title="AWANI",AWANI (C)
-https://d53b-115-135-30-56.ngrok-free.app/mpd/index_modified.mpd
+https://4f02-115-135-30-56.ngrok-free.app/mpd/index_modified.mpd

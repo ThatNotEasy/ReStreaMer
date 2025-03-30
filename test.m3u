@@ -2,5 +2,5 @@
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; LG WebOS TV Build/RQ3A.210905.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.5195.79 Safari/537.36"}
 #KODIPROP:inputstream.adaptive.license_key=39c175581e237eff9559607eb9b23c10:5102b12aac7756c65dcb46a101d960d3
-#EXTINF:-1 tvg-id="ASTRO" ch-number="1" tvg-logo="https://linear-poster.astro.com.my/prod/poster/beINSPORTS2_IVP_LAND_448x252.jpgg" group-title="ASTRO",ATP TOUR (C)
+#EXTINF:-1 tvg-id="ASTRO" ch-number="1" tvg-logo="https://linear-poster.astro.com.my/prod/poster/beINSPORTS2_IVP_LAND_448x252.jpg" group-title="ASTRO",ATP TOUR (C)
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5066/default_ott.mpd

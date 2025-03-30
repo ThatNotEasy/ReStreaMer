@@ -1,6 +1,6 @@
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDA4Njg5NjYsImlzcyI6IlZSIiwiZXhwIjoxNzQwOTU0NjAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNTdhMzA5YTYtMWMwMi00ZjZjLWFjMzgtNmM0MDQyOGQ3ZTM5IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikifQ.XbQnmHWWHJ4POVHnD-kY-QQps7N0jvPBDtMDFqiYEUw"}
-#KODIPROP:inputstream.adaptive.license_key={"bf6709b32f754b8db7a6677b804bdd47":"81d313395b2b90d5c3318d7ce474d273","33d64e90ab4a49ad82fa8e330ec8dd77":"0e97b14e170db8ab089ec77d4119d1da"}
-#EXTINF:-1 tvg-id="502.astro" ch-number="502" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png" group-title="AWANI",AWANI (C)
-https://4f02-115-135-30-56.ngrok-free.app/mpd/index_modified.mpd
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; LG WebOS TV Build/RQ3A.210905.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.5195.79 Safari/537.36"}
+#KODIPROP:inputstream.adaptive.license_key=39c175581e237eff9559607eb9b23c10:5102b12aac7756c65dcb46a101d960d3
+#EXTINF:-1 tvg-id="ASTRO" ch-number="1" tvg-logo="https://linear-poster.astro.com.my/prod/poster/beINSPORTS2_IVP_LAND_448x252.jpgg" group-title="ASTRO",ATP TOUR (C)
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5066/default_ott.mpd

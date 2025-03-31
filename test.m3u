@@ -1,22 +1,27 @@
-#EXTM3U
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=39c175581e237eff9559607eb9b23c10:5102b12aac7756c65dcb46a101d960d3
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; LG WebOS TV Build/RQ3A.210905.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.5195.79 Safari/537.36"}
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"8ab47741930c476780515f9a00decb0a","kid":"8ab47741930c476780515f9a00decb0a"}],"type":"temporary"}
-#EXT-X-VERSION:5
-#EXT-X-MEDIA-SEQUENCE:0
-#EXT-X-INDEPENDENT-SEGMENTS
-#EXT-X-TARGETDURATION:6
-#EXT-X-KEY:METHOD=AES-128,URI="data:text/plain;base64,OGFiNDc3NDE5MzBjNDc2NzgwNTE1ZjlhMDBkZWNiMGE6N2FiNGI5YWU1YTQ4YWE1MjZlNTExYTkxM2I4MzI3Njk=",KEYFORMAT="identity",KEYFORMATVERSIONS="1"
+#EXTINF:-1 tvg-id="ASTRO" ch-number="1" tvg-logo="https://linear-poster.astro.com.my/prod/poster/beINSPORTS2_IVP_LAND_448x252.jpg" group-title="ASTRO",ATP TOUR (C)
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5066/default_ott.mpd
 
-#EXTINF:-1 tvg-id="DAZN023" tvg-logo="" group-title="Sports",DAZN Channel 023
-#EXT-X-STREAM-INF:BANDWIDTH=8000000
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"7ab4b9ae5a48aa526e511a913b832769","kid":"8ab47741930c476780515f9a00decb0a"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="NFLNetwork.us" tvg-chno="212" tvg-name="NFL Network" tvg-logo="https://i.ibb.co/0jQYfzN/nflnetwork.png" group-title="Sports | NFL",NFL Network (Akamai Primary)
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
 https://dce-ak-livedazn.akamaized.net/dash/dazn-linear-023/stream.mpd?p=web&dazn-token=st=1743392564~exp=1743478964~acl=/*~id=bb7091490390~data=country=my#path=1s,2d#hashp=800fcad787b83a730ef0411cf7e569e253619d7d38f93900d1ddf7770d2f5e5b#hashua=51381b4b24c9f0c7c3af362c0b44513f984a1ea215b85cdbe3a64e5c34b56757#wm=0~hmac=e8d245f63c05e5350d5958f5fac30ecd782deba5569d9604c9ce078c9b7f4a36
 
-#EXTINF:-1 tvg-id="DAZN023" tvg-logo="" group-title="Sports",DAZN Channel 023
-#EXT-X-STREAM-INF:BANDWIDTH=8000000
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"7ab4b9ae5a48aa526e511a913b832769","kid":"8ab47741930c476780515f9a00decb0a"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="NFLNetwork.us" tvg-chno="212" tvg-name="NFL Network" tvg-logo="https://i.ibb.co/0jQYfzN/nflnetwork.png" group-title="Sports | NFL",NFL Network (Indazn Backup)
+#EXTHTTP:{"User-Agent":"Dalvik/2.1.0 (Linux; U; Android 9; SHIELD Android TV Build/PPR1.180610.011)"}
 https://dcf-ac-live.cdn.indazn.com/dash/dazn-linear-023/stream.mpd?p=web&dazn-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InV1aWRfMSJ9.eyJwYXRocyI6WyIvZGFzaC9kYXpuLWxpbmVhci0wMjMiXSwiZXhjIjpbXSwiaGVhZGVycyI6WyJ1c2VyLWFnZW50Il0sImNvIjp0cnVlLCJpcCI6ZmFsc2UsImFzbiI6ZmFsc2UsImludHNpZyI6IkxGRERCVzFhR3E3TTBiSU9vZjR4R1ZLMlV3czNxY1dZSzU3OUE2ZU1LM3MiLCJpYXQiOjE3NDMzOTI1NjQsImV4cCI6MTc0MzQ3ODk2NH0.0uaRCHcCfJdwrCxWExeRP06mwov_dQhNuVeDEmhm7m4
 
-#EXTINF:-1 tvg-id="DAZN023" tvg-logo="" group-title="Sports",DAZN Channel 023
-#EXT-X-STREAM-INF:BANDWIDTH=8000000
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"7ab4b9ae5a48aa526e511a913b832769","kid":"8ab47741930c476780515f9a00decb0a"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="NFLNetwork.us" tvg-chno="212" tvg-name="NFL Network" tvg-logo="https://i.ibb.co/0jQYfzN/nflnetwork.png" group-title="Sports | NFL",NFL Network (Akamai Backup 2)
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36"}
 https://dcf-ak-livedazn.akamaized.net/dash/dazn-linear-023/stream.mpd?p=web&dazn-token=st=1743392564~exp=1743478964~acl=/*~id=bb7091490390~data=country=my#path=1s,2d#hashp=800fcad787b83a730ef0411cf7e569e253619d7d38f93900d1ddf7770d2f5e5b#hashua=51381b4b24c9f0c7c3af362c0b44513f984a1ea215b85cdbe3a64e5c34b56757#wm=0~hmac=e8d245f63c05e5350d5958f5fac30ecd782deba5569d9604c9ce078c9b7f4a36

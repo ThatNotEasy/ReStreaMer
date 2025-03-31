@@ -9,25 +9,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5066/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
 #EXTINF:-1 tvg-id="NFLNetwork.us" tvg-chno="212" tvg-name="NFL Network" tvg-logo="https://i.ibb.co/0jQYfzN/nflnetwork.png" group-title="Sports | NFL",NFL Network (Akamai Primary)
-#EXTHTTP:{"User-Agent":"DAZN/5.0.0 (Linux; Android 11) ExoPlayerLib/2.15.1"}
-#EXTHTTP:{"X-Forwarded-For":"60.54.90.123"}
-#EXTHTTP:{"dazn-token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InV1aWRfMSJ9.eyJwYXRocyI6WyIvZGFzaC9kYXpuLWxpbmVhci0wMzYiXSwiZXhjIjpbXSwiaGVhZGVycyI6WyJ1c2VyLWFnZW50Il0sImNvIjp0cnVlLCJpcCI6ZmFsc2UsImFzbiI6ZmFsc2UsImludHNpZyI6IkxGRERCVzFhR3E3TTBiSU9vZjR4R1ZLMlV3czNxY1dZSzU3OUE2ZU1LM3MiLCJpYXQiOjE3NDMzOTI1NjgsImV4cCI6MTc0MzQ3ODk2OH0.k6B9TbG1L4enp-jRqkZcw4wZYpNKKRrKel6vq-xUtwE"}
-https://dce-ak-livedazn.akamaized.net/dash/dazn-linear-023/stream.mpd?p=web&dazn-token=st=1743392564~exp=1743478964~acl=/*~id=bb7091490390~data=country=my#path=1s,2d#hashp=800fcad787b83a730ef0411cf7e569e253619d7d38f93900d1ddf7770d2f5e5b#hashua=51381b4b24c9f0c7c3af362c0b44513f984a1ea215b85cdbe3a64e5c34b56757#wm=0~hmac=e8d245f63c05e5350d5958f5fac30ecd782deba5569d9604c9ce078c9b7f4a36
-
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-#EXTINF:-1 tvg-id="NFLNetwork.us" tvg-chno="212" tvg-name="NFL Network" tvg-logo="https://i.ibb.co/0jQYfzN/nflnetwork.png" group-title="Sports | NFL",NFL Network (Indazn Backup)
-#EXTHTTP:{"User-Agent":"DAZN/5.0.0 (Linux; Android 11) ExoPlayerLib/2.15.1"}
-#EXTHTTP:{"X-Forwarded-For":"60.54.90.123"}
-#EXTHTTP:{"dazn-token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InV1aWRfMSJ9.eyJwYXRocyI6WyIvZGFzaC9kYXpuLWxpbmVhci0wMzYiXSwiZXhjIjpbXSwiaGVhZGVycyI6WyJ1c2VyLWFnZW50Il0sImNvIjp0cnVlLCJpcCI6ZmFsc2UsImFzbiI6ZmFsc2UsImludHNpZyI6IkxGRERCVzFhR3E3TTBiSU9vZjR4R1ZLMlV3czNxY1dZSzU3OUE2ZU1LM3MiLCJpYXQiOjE3NDMzOTI1NjgsImV4cCI6MTc0MzQ3ODk2OH0.k6B9TbG1L4enp-jRqkZcw4wZYpNKKRrKel6vq-xUtwE"}
-https://dcf-ac-live.cdn.indazn.com/dash/dazn-linear-023/stream.mpd?p=web&dazn-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InV1aWRfMSJ9.eyJwYXRocyI6WyIvZGFzaC9kYXpuLWxpbmVhci0wMjMiXSwiZXhjIjpbXSwiaGVhZGVycyI6WyJ1c2VyLWFnZW50Il0sImNvIjp0cnVlLCJpcCI6ZmFsc2UsImFzbiI6ZmFsc2UsImludHNpZyI6IkxGRERCVzFhR3E3TTBiSU9vZjR4R1ZLMlV3czNxY1dZSzU3OUE2ZU1LM3MiLCJpYXQiOjE3NDMzOTI1NjQsImV4cCI6MTc0MzQ3ODk2NH0.0uaRCHcCfJdwrCxWExeRP06mwov_dQhNuVeDEmhm7m4
-
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-#EXTINF:-1 tvg-id="NFLNetwork.us" tvg-chno="212" tvg-name="NFL Network" tvg-logo="https://i.ibb.co/0jQYfzN/nflnetwork.png" group-title="Sports | NFL",NFL Network (Akamai Backup 2)
-#EXTHTTP:{"User-Agent":"DAZN/5.0.0 (Linux; Android 11) ExoPlayerLib/2.15.1"}
-#EXTHTTP:{"X-Forwarded-For":"60.54.90.123"}
-#EXTHTTP:{"dazn-token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InV1aWRfMSJ9.eyJwYXRocyI6WyIvZGFzaC9kYXpuLWxpbmVhci0wMzYiXSwiZXhjIjpbXSwiaGVhZGVycyI6WyJ1c2VyLWFnZW50Il0sImNvIjp0cnVlLCJpcCI6ZmFsc2UsImFzbiI6ZmFsc2UsImludHNpZyI6IkxGRERCVzFhR3E3TTBiSU9vZjR4R1ZLMlV3czNxY1dZSzU3OUE2ZU1LM3MiLCJpYXQiOjE3NDMzOTI1NjgsImV4cCI6MTc0MzQ3ODk2OH0.k6B9TbG1L4enp-jRqkZcw4wZYpNKKRrKel6vq-xUtwE"}
-https://dcf-ak-livedazn.akamaized.net/dash/dazn-linear-023/stream.mpd?p=web&dazn-token=st=1743392564~exp=1743478964~acl=/*~id=bb7091490390~data=country=my#path=1s,2d#hashp=800fcad787b83a730ef0411cf7e569e253619d7d38f93900d1ddf7770d2f5e5b#hashua=51381b4b24c9f0c7c3af362c0b44513f984a1ea215b85cdbe3a64e5c34b56757#wm=0~hmac=e8d245f63c05e5350d5958f5fac30ecd782deba5569d9604c9ce078c9b7f4a36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; LG WebOS TV Build/RQ3A.210905.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.5195.79 Safari/537.36"}
+#EXTHTTP:{"Referer":"https://www.dazn.com/"}
+#EXTHTTP:{"dazn-token": "st%3D1743394189~exp%3D1743480589~acl%3D%2F*~id%3Ddf8be904e228~data%3Dcountry%3Dmy%23path%3D1s%2C2d%23hashp%3D800fcad787b83a730ef0411cf7e569e253619d7d38f93900d1ddf7770d2f5e5b%23hashua%3Dc9d890423bdd8f672926a6e46bf361c37afc8a1de8b01d7be910915e691d85c9%23wm%3D0~hmac%3Db730c06892b9d3860c7883b54cf863d55c16271e656334353adf4b74ea094ea4"}
+https://dce-ak-livedazn.akamaized.net/dash/dazn-linear-023/stream.mpd?p=web&dazn-token=st%3D1743394189~exp%3D1743480589~acl%3D%2F*~id%3Ddf8be904e228~data%3Dcountry%3Dmy%23path%3D1s%2C2d%23hashp%3D800fcad787b83a730ef0411cf7e569e253619d7d38f93900d1ddf7770d2f5e5b%23hashua%3Dc9d890423bdd8f672926a6e46bf361c37afc8a1de8b01d7be910915e691d85c9%23wm%3D0~hmac%3Db730c06892b9d3860c7883b54cf863d55c16271e656334353adf4b74ea094ea4

@@ -9,7 +9,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5066/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
 #EXTINF:-1 tvg-id="NFLNetwork.us" tvg-chno="212" tvg-name="NFL Network" tvg-logo="https://i.ibb.co/0jQYfzN/nflnetwork.png" group-title="Sports | NFL",NFL Network (Akamai Primary)
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; LG WebOS TV Build/RQ3A.210905.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.5195.79 Safari/537.36"}
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"}
 #EXTHTTP:{"Referer":"https://www.dazn.com/"}
 #EXTHTTP:{"dazn-token": "st%3D1743394189~exp%3D1743480589~acl%3D%2F*~id%3Ddf8be904e228~data%3Dcountry%3Dmy%23path%3D1s%2C2d%23hashp%3D800fcad787b83a730ef0411cf7e569e253619d7d38f93900d1ddf7770d2f5e5b%23hashua%3Dc9d890423bdd8f672926a6e46bf361c37afc8a1de8b01d7be910915e691d85c9%23wm%3D0~hmac%3Db730c06892b9d3860c7883b54cf863d55c16271e656334353adf4b74ea094ea4"}
 https://dce-ak-livedazn.akamaized.net/dash/dazn-linear-023/stream.mpd?p=web&dazn-token=st%3D1743394189~exp%3D1743480589~acl%3D%2F*~id%3Ddf8be904e228~data%3Dcountry%3Dmy%23path%3D1s%2C2d%23hashp%3D800fcad787b83a730ef0411cf7e569e253619d7d38f93900d1ddf7770d2f5e5b%23hashua%3Dc9d890423bdd8f672926a6e46bf361c37afc8a1de8b01d7be910915e691d85c9%23wm%3D0~hmac%3Db730c06892b9d3860c7883b54cf863d55c16271e656334353adf4b74ea094ea4
